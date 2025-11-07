@@ -21,12 +21,15 @@ python3 my_honeypot.py
 
 
 ### Honeypot Actively Monitoring:
-![Honeypot Running](https://github.com/sahaana2005/ssh-honeypot-monitor/blob/main/main.png?raw=true)
+![Honeypot Running](https://github.com/sahaan<img width="705" height="592" alt="main" src="https://github.com/user-attachments/assets/209ef507-e204-45fd-93fe-b5e401009d95" />
+a2005/ssh-honeypot-monitor/blob/main/main.png?raw=true)
 
 ### Real Attack Detection:
-![Attack Detected](https://github.com/sahaana2005/ssh-honeypot-monitor/blob/main/2.png?raw=true)
+![Attack De<img width="708" height="755" alt="2" src="https://github.com/user-attachments/assets/f4c2bfde-3d82-42aa-b52e-01507d089670" />
+tected](https://github.com/sahaana2005/ssh-honeypot-monitor/blob/main/2.png?raw=true)
 
 ### Attack Logs Captured:
 ![Attack Logs](https://github.com/sahaana2005/ssh-honeypot-monitor/blob/main/3.png?raw=true)
 
-### Sample Attacks Detected:
+### Sample Attacks Detected:<img width="711" height="185" alt="3" src="https://github.com/user-attachments/assets/a5c7d9d9-eaff-41a3-a380-a38e9b023e38" />
+
