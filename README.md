@@ -18,12 +18,12 @@ python3 my_honeypot.py
 ## 🎯 Proof of Concept - It Works!
 
 ### Honeypot Actively Monitoring:
-![Honeypot Running](main.png)
+![Honeypot Running](https://github.com/sahaana2005/ssh-honeypot-monitor/blob/main/main.png?raw=true)
 
 ### Real Attack Detection:
-![Attack Detected](2.png)
+![Attack Detected](https://github.com/sahaana2005/ssh-honeypot-monitor/blob/main/2.png?raw=true)
 
 ### Attack Logs Captured:
-![Attack Logs](3.png)
+![Attack Logs](https://github.com/sahaana2005/ssh-honeypot-monitor/blob/main/3.png?raw=true)
 
 ### Sample Attacks Detected:
