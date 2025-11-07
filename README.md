@@ -15,3 +15,15 @@ A custom Python honeypot that detects and logs SSH attacks in real-time.
 ## 🚀 Quick Start
 ```bash
 python3 my_honeypot.py
+## 🎯 Proof of Concept - It Works!
+
+### Honeypot Actively Monitoring:
+![Honeypot Running](main.png)
+
+### Real Attack Detection:
+![Attack Detected](2.png)
+
+### Attack Logs Captured:
+![Attack Logs](3.png)
+
+### Sample Attacks Detected:
